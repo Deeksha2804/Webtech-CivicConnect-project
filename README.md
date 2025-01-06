@@ -27,7 +27,7 @@ CivicConnect is a web application designed to facilitate communication between c
      4. Extract the downloaded ZIP file to your desired location.
    - **Option 2**: Clone the repository using Git:
      ```bash
-     git clone [https://github.com/dheerajm04/CivicConnect-webtech.git]
+     git clone [https://github.com/Deeksha2804/Webtech-CivicConnect-project.git]
      ```
 
 2. **Install dependencies**:
